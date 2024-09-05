@@ -1,0 +1,1 @@
+print("hello world")[D[D[D[D[D[W[D[D[D[D[D[H[1;5C[1;5C[1;5C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D[C

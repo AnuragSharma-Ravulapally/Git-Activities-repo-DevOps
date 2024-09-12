@@ -1,1 +1,1 @@
-# This is a repository dedicated the practice of GIT vcs.
+# This is a repository is dedicated the practice of GIT vcs.
